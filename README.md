@@ -1,25 +1,46 @@
-<h1 align="center">Hi 👋, I'm Büşra</h1>
-<h3 align="center">I am Computer Engineering student in Duzce University</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I+am+Büşra+ÖZDEMİR&center=true&size=25">
+  </a>
+</h1>
 
-<img align="right" alt="Coding" width="350" height="250" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif">
+### 👨🏻‍💻 &nbsp;About Me
 
-- 🌱 I’m currently learning **.NET CORE, MVC, Python**
+🎓 &nbsp;I am currently studying Computer Engineering at Duzce University.\
+🌱 &nbsp;I continue my work as a full stack developer in the field of web programming.\
+✍️ &nbsp;I attend trainings and do projects to gain more experience in my field.\
+✉️ &nbsp;You can reach me at busraozdm1@gmail.com.
 
-- 📫 How to reach me **busraozdm1@gmail.com**
+### 🛠 &nbsp;Tech Stack
+![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=Csharp)&nbsp;
+![.Net](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=.Net)&nbsp;
+![.EntityFramework](https://img.shields.io/badge/-EntityFrameworkcore-05122A?style=flat&logo=Csharp)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Jquery](https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=jquery)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![.Linq](https://img.shields.io/badge/-LinQ-05122A?style=flat&logo=Csharp)&nbsp;
+![.MSSQL](https://img.shields.io/badge/-MSSQL-05122A?style=flat&logo=Microsoft%20SQL%20Server)&nbsp;
+![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=Visual%20Studio)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/busra0zdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="busra0zdemir" height="30" width="40" /></a>
-<a href="https://twitter.com/busraozdemiir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="busraozdemiir" height="30" width="40" /></a>
-<a href="https://instagram.com/busra.0zdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="busra.0zdemir" height="30" width="40" /></a>
+<br/>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="mailto:busraozdm1@gmail.com"><img src="https://img.shields.io/badge/-busraozdm1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/busra0zdemir/"><img src="https://img.shields.io/badge/-busra0zdemir-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/busra.0zdemir"><img src="https://img.shields.io/badge/-@busra.0zdemir-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/busra.0zdemir"><img src="https://img.shields.io/badge/-@busraozdemiir-00acee?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=busraozdemir0&show_icons=true&locale=en" alt="busraozdemir0" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=busraozdemir0&show_icons=true&locale=en&layout=compact" alt="busraozdemir0" /></p>
 
 
 
