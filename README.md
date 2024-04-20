@@ -9,7 +9,7 @@
 🎓 &nbsp;I am currently studying Computer Engineering at Duzce University.\
 🌱 &nbsp;I continue my work as a full stack developer in the field of web programming.\
 ✍️ &nbsp;I attend trainings and do projects to gain more experience in my field.\
-✉️ &nbsp;You can reach me at busraozdm1@gmail.com.
+✉️ &nbsp;You can reach me at 81busraozdemir@gmail.com.
 
 ### 🛠 &nbsp;Tech Stack
 ![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=Csharp)&nbsp;
@@ -36,7 +36,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:busraozdm1@gmail.com"><img src="https://img.shields.io/badge/-busraozdm1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:81busraozdemir@gmail.com"><img src="https://img.shields.io/badge/-81busraozdemir@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/busra0zdemir/"><img src="https://img.shields.io/badge/-busra0zdemir-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/busra.0zdemir"><img src="https://img.shields.io/badge/-@busra.0zdemir-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/busraozdemiir"><img src="https://img.shields.io/badge/-@busraozdemiir-00acee?style=flat&logo=Twitter&logoColor=white"/></a>
