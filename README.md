@@ -12,6 +12,8 @@
 ✨ &nbsp;I have a personality that acts with determination, ambition and responsibility, and is also prone to teamwork.\
 📩 &nbsp;You can reach me at 81busraozdemir@gmail.com.
 
+<br/>
+
 ### 🛠 &nbsp;Tech Stack
 ![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=Csharp)&nbsp;
 ![.Net](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=.Net)&nbsp;
