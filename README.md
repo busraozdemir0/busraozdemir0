@@ -4,12 +4,13 @@
   </a>
 </h1>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 💭 &nbsp;About Me
 
-🎓 &nbsp;I am currently studying Computer Engineering at Duzce University.\
-🌱 &nbsp;I continue my work as a full stack developer in the field of web programming.\
-✍️ &nbsp;I attend trainings and do projects to gain more experience in my field.\
-✉️ &nbsp;You can reach me at 81busraozdemir@gmail.com.
+🎓 &nbsp;I am a graduate of Duzce University Computer Engineering.\
+👩‍💻 &nbsp;By specializing especially in web-based projects, I have qualified myself as a back end developer or full stack developer.\
+💻 &nbsp;I attend trainings and do projects to gain more experience in my field.\
+✨ &nbsp;I have a personality that acts with determination, ambition and responsibility, and is also prone to teamwork.\
+📩 &nbsp;You can reach me at 81busraozdemir@gmail.com.
 
 ### 🛠 &nbsp;Tech Stack
 ![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=Csharp)&nbsp;
