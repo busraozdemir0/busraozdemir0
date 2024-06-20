@@ -27,6 +27,7 @@
 ![.MSSQL](https://img.shields.io/badge/-MSSQL-05122A?style=flat&logo=Microsoft%20SQL%20Server)&nbsp;
 ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![PostgreSql](https://img.shields.io/badge/-Postgre%20SQL-05122A?style=flat&logo=PostgreSql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=IntelliJ%20IDEA)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -42,7 +43,7 @@
 <a href="mailto:81busraozdemir@gmail.com"><img src="https://img.shields.io/badge/-81busraozdemir@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/busra0zdemir/"><img src="https://img.shields.io/badge/-busra0zdemir-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/busra.0zdemir"><img src="https://img.shields.io/badge/-@busra.0zdemir-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/busraozdemiir"><img src="https://img.shields.io/badge/-@busraozdemiir-00acee?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://x.com/busraozdemiir"><img src="https://img.shields.io/badge/-@busraozdemiir-000000?style=flat&logo=X&logoColor=white"/></a>
 </p>
 
 
